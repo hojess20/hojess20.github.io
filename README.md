@@ -9,5 +9,5 @@ This project investigates whether PAM50 molecular subtypes are significant progn
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/hojessica20/)|[GitHub](https://github.com/hojess20)|[Email](mailto:jho3@ucsf.edu)
+[LinkedIn](https://www.linkedin.com/in/hojessica20/) || [GitHub](https://github.com/hojess20) || [Email](mailto:jho3@ucsf.edu)
 
