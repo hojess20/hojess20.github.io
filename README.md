@@ -11,7 +11,7 @@ This analysis investigates the time-varying impact of PAM50 molecular subtypes o
 
 This project explores predicting dementia diagnoses and identifying at-risk subgroups using clinical and neuropathological variables from the Aging, Dementia, and Traumatic Brain Injury (TBI) study. Both a logistic regression model and a random forest classifier were implemented to predict dementia status using features such as age, TBI history, Braak stage, and ApoE4 allele presence. Additionally, a k-means clustering algorithm was applied to uncover distinct natural subgroups within the population and evaluate their varying risk profiles.
 
-### [Genome-Wide Association Study of T2D](https://github.com/hojess20/hojess20.github.io/tree/main/GWAS-T2D)
+#### [Genome-Wide Association Study of T2D](https://github.com/hojess20/hojess20.github.io/tree/main/GWAS-T2D)
 
 I conducted a genome-wide association study (GWAS) analyzing genetic risk factors for Type 2 Diabetes (T2D) in East Asian populations. Using summary statistics from the Spracklen et al. (2020) meta-analysis (N = 433,540), the KCNQ1 locus on Chromosome 11 was identified as the dominant genetic contributor to T2D risk. Comparative analysis with a smaller multi-ancestry cohort demonstrated how ancestry-specific sample sizes improve fine-mapping resolution, highlighting the importance of moving beyond European-centric genomic research in precision medicine.
 
